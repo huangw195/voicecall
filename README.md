@@ -1,3 +1,3 @@
 # voicecall
 
-This project is to evaluate the reaons behind a customer rating about a voice call.
+This project is to evaluate the reasons behind a customer rating on a voice call.
